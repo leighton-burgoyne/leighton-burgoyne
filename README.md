@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leighton</h1>
-<h3 align="center">A passionate Computing Student from England</h3>
+<h3 align="center">A passionate Computing Student from the UK</h3>
 
 - 🌱 I’m currently learning **Java, JavaScript, and C#**
 
