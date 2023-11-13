@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Leighton</h1>
-<h3 align="center">A Computing Student from the UK 👨‍💻</h3>
+<h1 align="center">Hi, I'm Leighton 👋</h1>
+<h3 align="center">A Computing Student from North West England 👨‍💻</h3>
 
 - 🔭 I’m currently studying a **University Degree in BSc (Hons) Computing**
 
